@@ -5,7 +5,7 @@
 
 % Class information
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesClass{IPLeiriaThesis}[2023/12/12 IPLeiria Thesis Class]
+\ProvidesClass{Main}[2023/12/12 IPLeiria Thesis Class]
 
 % Process class options: document language
 \DeclareOption{en}{\def\IPLeiria@language{english}}
