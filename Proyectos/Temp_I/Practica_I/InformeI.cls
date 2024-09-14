@@ -5,11 +5,11 @@
 
 % Class information
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesClass{Main}[2023/12/12 IPLeiria Thesis Class]
+\ProvidesClass{InformeI}[2023/12/12 IPLeiria Thesis Class]
 
 % Process class options: document language
-\DeclareOption{en}{\def\IPLeiria@language{english}}
-\DeclareOption{pt}{\def\IPLeiria@language{portuguese}}
+\DeclareOption{en}{\def\InformeI@language{english}}
+\DeclareOption{pt}{\def\InformeI@language{portuguese}}
 \DeclareOption*{\PassOptionsToClass{\CurrentOption}{report}}
 \ProcessOptions\relax
 
@@ -20,16 +20,16 @@
 \RequirePackage[main=english,portuguese]{babel}
 
 % Define a command to get the selected language
-\newcommand{\getLanguage}{\IPLeiria@language}
-\ifx\IPLeiria@language\@undefined\renewcommand{\getLanguage}{english}\fi
+\newcommand{\getLanguage}{\InnformeI@language}
+\ifx\InformeI@language\@undefined\renewcommand{\getLanguage}{english}\fi
 
 % Select the language specified by the user
 \AtBeginDocument{%
-    \ifx\IPLeiria@language\@undefined
-        \PackageWarning{IPLeiriaThesis}{Language not specified. Defaulting to English.}%
+    \ifx\InformeI@language\@undefined
+        \PackageWarning{InformeI}{Language not specified. Defaulting to English.}%
         \selectlanguage{english}%
     \else
-        \selectlanguage{\IPLeiria@language}%
+        \selectlanguage{\InformeI@language}%
     \fi
 }
 
