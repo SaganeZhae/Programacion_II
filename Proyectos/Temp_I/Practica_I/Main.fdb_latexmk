@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber Main"] 0 "Main.bcf" "Main.bbl" "Main" 1726612416.47772 -1
-  "Main.bcf" 1726612416 107901 784f5281ec0598c411ea1ed4c3399c4b "pdflatex"
-  "references.bib" 1726418068 1438 deba57a04771b066f9365f402cba600f ""
+["biber Main"] 1726616736.94098 "Main.bcf" "Main.bbl" "Main" 1726616760.77373 0
+  "Main.bcf" 1726616760 107760 e808460112068ba8c0ff4be965fae2f9 "pdflatex"
+  "references.bib" 1726616211 1424 8bbbb92a5002a23afa34f9c18b9505ca ""
   (generated)
   "Main.bbl"
   "Main.blg"
   (rewritten before read)
-["pdflatex"] 1726612414.73515 "c:/Users/sagan/OneDrive/Escritorio/Analitica y Ciencia de los Datos/2024-C3/Programacion II/Programacion_II/Proyectos/Temp_I/Practica_I/Main.tex" "Main.pdf" "Main" 1726612416.4785 0
+["pdflatex"] 1726616759.09868 "c:/Users/sagan/OneDrive/Escritorio/Analitica y Ciencia de los Datos/2024-C3/Programacion II/Programacion_II/Proyectos/Temp_I/Practica_I/Main.tex" "Main.pdf" "Main" 1726616760.77467 0
   "C:/Program" 1726340983 1391 610124124366cb07043028442998f20b ""
   "C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
   "C:/Program Files/MiKTeX/fonts/tfm/adobe/times/ptmb7t.tfm" 1136786654 2172 fd0c924230362ff848a33632ed45dc23 ""
@@ -129,17 +129,16 @@
   "C:/Users/sagan/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1726414572 117253 3e2b0821a8df89fc4d3e125e02ff8797 ""
   "C:/Users/sagan/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1726414581 24255518 2726ce56658868bdf7659766ccaebaf4 ""
   "Logo_itla.jpg" 1726611555 201672 2f7506cd26b03f69da7589213d548d4b ""
-  "Main.aux" 1726612416 2024 1bceb9dd8802f4478e72c8cc968160e9 "pdflatex"
-  "Main.bbl" 1726418125 4068 bd5de40c8a19d2a7f535db565c9a7bd5 "biber Main"
-  "Main.lof" 1726612416 124 7366b130b44e68a5f4277eee13cc4841 "pdflatex"
-  "Main.lot" 1726612416 106 a1a1886fd570dd41dc079417878a4c6f "pdflatex"
-  "Main.out" 1726612416 753 88a61dbcc352a26e018f2ec0412d144c "pdflatex"
-  "Main.run.xml" 1726612416 2305 30c29957429a4042eb5bdb0b5c32bc00 "pdflatex"
-  "Main.tex" 1726612412 3338 c7968af8c79db546374df629f0efda4c ""
-  "Main.toc" 1726612416 432 f597d3d810aee5ac65cb89fa8c192106 "pdflatex"
-  "c:/Users/sagan/OneDrive/Escritorio/Analitica y Ciencia de los Datos/2024-C3/Programacion II/Programacion_II/Proyectos/Temp_I/Practica_I/Main.tex" 1726612412 3338 c7968af8c79db546374df629f0efda4c ""
-  "example-image-a.jpg" 1726417382 12904 b396e98bea0e32de6969c2fe646235f8 ""
-  "template.sty" 1726612378 3368 e39fc22af739e87c4c9e95753ef124c2 ""
+  "Main.aux" 1726616760 1176 0af5ad389793e004c34c74704bf7564c "pdflatex"
+  "Main.bbl" 1726616739 1705 2c563ec4f78ad4af2a06e9e29bfb2524 "biber Main"
+  "Main.lof" 1726616760 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "Main.lot" 1726616760 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "Main.out" 1726616760 847 dd6a6ca8f0c7bc213bf5826333dfdddd "pdflatex"
+  "Main.run.xml" 1726616760 2305 30c29957429a4042eb5bdb0b5c32bc00 "pdflatex"
+  "Main.tex" 1726616758 2012 1200c2ed03507f564132bdc58c54bcf8 ""
+  "Main.toc" 1726616760 449 94ccbda2de3ef806578b01539e28102c "pdflatex"
+  "c:/Users/sagan/OneDrive/Escritorio/Analitica y Ciencia de los Datos/2024-C3/Programacion II/Programacion_II/Proyectos/Temp_I/Practica_I/Main.tex" 1726616758 2012 1200c2ed03507f564132bdc58c54bcf8 ""
+  "template.sty" 1726614655 3368 0a5d11a2e684a338acf9b3f5c9bf13a8 ""
   (generated)
   "Main.aux"
   "Main.bcf"

@@ -274,8 +274,6 @@ INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\times\ptmr7t.vf
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
 INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\times\ptmr7t.vf
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
-INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\times\ptmb7t.vf
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmb8r.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmr7t.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmb7t.tfm
 INPUT .\Main.toc
@@ -285,8 +283,6 @@ OUTPUT Main.toc
 INPUT .\Main.lof
 INPUT .\Main.lof
 INPUT Main.lof
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmb7t.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmbi7t.tfm
 OUTPUT Main.lof
 INPUT .\Main.lot
 INPUT .\Main.lot
@@ -294,29 +290,15 @@ INPUT Main.lot
 OUTPUT Main.lot
 INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\times\ptmb7t.vf
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmb8r.tfm
-INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\times\ptmbi7t.vf
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmbi8r.tfm
-INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\times\ptmri7t.vf
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmri8r.tfm
+INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\times\ptmb7t.vf
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmb8r.tfm
 INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\omsptm.fd
 INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\omsptm.fd
 INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\omsptm.fd
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
-INPUT .\example-image-a.jpg
-INPUT .\example-image-a.jpg
-INPUT .\example-image-a.jpg
-INPUT .\example-image-a.jpg
-INPUT .\example-image-a.jpg
-INPUT .\example-image-a.jpg
-INPUT .\example-image-a.jpg
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmr7t.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmri7t.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmtt12.tfm
 INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\times\ptmri7t.vf
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmri8r.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmbi7t.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmtt12.tfm
-INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\times\ptmbi7t.vf
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmbi8r.tfm
 INPUT Main.aux
 INPUT .\Main.out
 INPUT .\Main.out

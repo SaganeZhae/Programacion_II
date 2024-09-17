@@ -19,88 +19,29 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global/global}
-    \entry{knuth1984texbook}{book}{}{}
+    \entry{DocumentationPython}{misc}{}{}
       \name{author}{1}{}{%
-        {{hash=ec08e6f01da5f3814f28a70c89c64656}{%
-           family={Knuth},
-           familyi={K\bibinitperiod},
-           given={Donald\bibnamedelima E.},
-           giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=f0fb9f99dc6683b7eae7d527062b0fad}{%
+           family={Documentation},
+           familyi={D\bibinitperiod},
+           given={Python},
+           giveni={P\bibinitperiod}}}%
       }
-      \list{location}{1}{%
-        {Reading, Massachusetts}%
-      }
-      \list{publisher}{1}{%
-        {Addison-Wesley}%
-      }
-      \strng{namehash}{ec08e6f01da5f3814f28a70c89c64656}
-      \strng{fullhash}{ec08e6f01da5f3814f28a70c89c64656}
-      \strng{fullhashraw}{ec08e6f01da5f3814f28a70c89c64656}
-      \strng{bibnamehash}{ec08e6f01da5f3814f28a70c89c64656}
-      \strng{authorbibnamehash}{ec08e6f01da5f3814f28a70c89c64656}
-      \strng{authornamehash}{ec08e6f01da5f3814f28a70c89c64656}
-      \strng{authorfullhash}{ec08e6f01da5f3814f28a70c89c64656}
-      \strng{authorfullhashraw}{ec08e6f01da5f3814f28a70c89c64656}
+      \strng{namehash}{f0fb9f99dc6683b7eae7d527062b0fad}
+      \strng{fullhash}{f0fb9f99dc6683b7eae7d527062b0fad}
+      \strng{fullhashraw}{f0fb9f99dc6683b7eae7d527062b0fad}
+      \strng{bibnamehash}{f0fb9f99dc6683b7eae7d527062b0fad}
+      \strng{authorbibnamehash}{f0fb9f99dc6683b7eae7d527062b0fad}
+      \strng{authornamehash}{f0fb9f99dc6683b7eae7d527062b0fad}
+      \strng{authorfullhash}{f0fb9f99dc6683b7eae7d527062b0fad}
+      \strng{authorfullhashraw}{f0fb9f99dc6683b7eae7d527062b0fad}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{The TeXbook}
-      \field{year}{1984}
-    \endentry
-    \entry{lamport1986latex}{book}{}{}
-      \name{author}{1}{}{%
-        {{hash=5d77435450d10a850a5b58577b9a456b}{%
-           family={Lamport},
-           familyi={L\bibinitperiod},
-           given={Leslie},
-           giveni={L\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Reading, Massachusetts}%
-      }
-      \list{publisher}{1}{%
-        {Addison-Wesley}%
-      }
-      \strng{namehash}{5d77435450d10a850a5b58577b9a456b}
-      \strng{fullhash}{5d77435450d10a850a5b58577b9a456b}
-      \strng{fullhashraw}{5d77435450d10a850a5b58577b9a456b}
-      \strng{bibnamehash}{5d77435450d10a850a5b58577b9a456b}
-      \strng{authorbibnamehash}{5d77435450d10a850a5b58577b9a456b}
-      \strng{authornamehash}{5d77435450d10a850a5b58577b9a456b}
-      \strng{authorfullhash}{5d77435450d10a850a5b58577b9a456b}
-      \strng{authorfullhashraw}{5d77435450d10a850a5b58577b9a456b}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{LaTeX: A Document Preparation System}
-      \field{year}{1986}
-    \endentry
-    \entry{website2023example}{misc}{}{}
-      \name{author}{1}{}{%
-        {{hash=a9f10d7654c3e4ae11d7c68773b47fee}{%
-           family={Name},
-           familyi={N\bibinitperiod},
-           given={Author},
-           giveni={A\bibinitperiod}}}%
-      }
-      \strng{namehash}{a9f10d7654c3e4ae11d7c68773b47fee}
-      \strng{fullhash}{a9f10d7654c3e4ae11d7c68773b47fee}
-      \strng{fullhashraw}{a9f10d7654c3e4ae11d7c68773b47fee}
-      \strng{bibnamehash}{a9f10d7654c3e4ae11d7c68773b47fee}
-      \strng{authorbibnamehash}{a9f10d7654c3e4ae11d7c68773b47fee}
-      \strng{authornamehash}{a9f10d7654c3e4ae11d7c68773b47fee}
-      \strng{authorfullhash}{a9f10d7654c3e4ae11d7c68773b47fee}
-      \strng{authorfullhashraw}{a9f10d7654c3e4ae11d7c68773b47fee}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{\url{https://www.example.com}}
-      \field{note}{Accessed: 2023-07-12}
-      \field{title}{Title of the Web Page}
-      \field{year}{2023}
+      \field{howpublished}{\url{https://docs.python.org/es/3.12/tutorial/index.html}}
+      \field{title}{El tutorial de python}
+      \field{year}{2024}
     \endentry
   \enddatalist
 \endrefsection
