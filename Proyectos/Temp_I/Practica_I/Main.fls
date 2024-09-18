@@ -149,170 +149,31 @@ INPUT C:\Program Files\MiKTeX\tex\latex\ifoddpage\ifoddpage.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\varwidth\varwidth.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\varwidth\varwidth.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\varwidth\varwidth.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\logreq\logreq.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\logreq\logreq.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\logreq\logreq.def
-INPUT C:\Program Files\MiKTeX\tex\latex\logreq\logreq.def
-INPUT C:\Program Files\MiKTeX\tex\latex\logreq\logreq.def
+INPUT C:\Program Files\MiKTeX\tex\latex\minted\minted.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\minted\minted.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fvextra\fvextra.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fvextra\fvextra.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fancyvrb\fancyvrb.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fancyvrb\fancyvrb.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\upquote\upquote.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\upquote\upquote.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\lineno\lineno.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\lineno\lineno.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\base\ifthen.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\base\ifthen.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-dm.def
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-dm.def
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-dm.def
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-compat.def
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-compat.def
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-compat.def
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.def
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.def
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.def
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\bbx\numeric.bbx
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\bbx\numeric.bbx
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\bbx\numeric.bbx
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\bbx\standard.bbx
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\bbx\standard.bbx
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\bbx\standard.bbx
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\cbx\numeric.cbx
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\cbx\numeric.cbx
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\cbx\numeric.cbx
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.cfg
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.cfg
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.cfg
-INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\ot1ptm.fd
-INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\ot1ptm.fd
-INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\ot1ptm.fd
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmr7t.tfm
-INPUT .\Main.aux
-INPUT .\Main.aux
-INPUT Main.aux
-OUTPUT Main.aux
-INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
-INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
-INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
-INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
-INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
-INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
-INPUT .\Main.out
-INPUT .\Main.out
-INPUT Main.out
-INPUT Main.out
-OUTPUT Main.pdf
-INPUT .\Main.out
-INPUT .\Main.out
-OUTPUT Main.out
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\lbx\english.lbx
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\lbx\english.lbx
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\lbx\english.lbx
-OUTPUT Main.bcf
-INPUT Main.bbl
-INPUT .\Main.bbl
-INPUT .\Main.bbl
-INPUT .\Main.bbl
-INPUT Main.bbl
-INPUT .\Logo_itla.jpg
-INPUT .\Logo_itla.jpg
-INPUT .\Logo_itla.jpg
-INPUT .\Logo_itla.jpg
-INPUT .\Logo_itla.jpg
-INPUT .\Logo_itla.jpg
-INPUT .\Logo_itla.jpg
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmr7t.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmb7t.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmri7t.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmbi7t.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmr7t.tfm
-INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\ot1ztmcm.fd
-INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\ot1ztmcm.fd
-INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\ot1ztmcm.fd
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\zptmcm7t.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\zptmcm7t.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\zptmcm7t.tfm
-INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\omlztmcm.fd
-INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\omlztmcm.fd
-INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\omlztmcm.fd
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\zptmcm7m.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\zptmcm7m.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\zptmcm7m.tfm
-INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\omsztmcm.fd
-INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\omsztmcm.fd
-INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\omsztmcm.fd
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\zptmcm7y.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\zptmcm7y.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\zptmcm7y.tfm
-INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\omxztmcm.fd
-INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\omxztmcm.fd
-INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\omxztmcm.fd
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\zptmcm7v.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\zptmcm7v.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\zptmcm7v.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmb7t.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmb7t.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmb7t.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmri7t.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmri7t.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmri7t.tfm
-INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\times\ptmr7t.vf
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
-INPUT C:\Users\sagan\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
-INPUT C:\Program Files\MiKTeX\fonts\enc\dvips\base\8r.enc
-INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\times\ptmb7t.vf
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmb8r.tfm
-INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\times\ptmbi7t.vf
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmbi8r.tfm
-INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\times\ptmr7t.vf
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
-INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\times\ptmr7t.vf
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmr7t.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmb7t.tfm
-INPUT .\Main.toc
-INPUT .\Main.toc
-INPUT Main.toc
-OUTPUT Main.toc
-INPUT .\Main.lof
-INPUT .\Main.lof
-INPUT Main.lof
-OUTPUT Main.lof
-INPUT .\Main.lot
-INPUT .\Main.lot
-INPUT Main.lot
-OUTPUT Main.lot
-INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\times\ptmb7t.vf
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmb8r.tfm
-INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\times\ptmb7t.vf
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmb8r.tfm
-INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\omsptm.fd
-INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\omsptm.fd
-INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\omsptm.fd
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmtt12.tfm
-INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\times\ptmri7t.vf
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmri8r.tfm
-INPUT Main.aux
-INPUT .\Main.out
-INPUT .\Main.out
-INPUT Main.run.xml
-OUTPUT Main.run.xml
-INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
-INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
-INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt12.pfb
-INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt12.pfb
-INPUT C:\Program Files\MiKTeX\fonts\type1\urw\times\utmb8a.pfb
-INPUT C:\Program Files\MiKTeX\fonts\type1\urw\times\utmb8a.pfb
-INPUT C:\Program Files\MiKTeX\fonts\type1\urw\times\utmbi8a.pfb
-INPUT C:\Program Files\MiKTeX\fonts\type1\urw\times\utmbi8a.pfb
-INPUT C:\Program Files\MiKTeX\fonts\type1\urw\times\utmr8a.pfb
-INPUT C:\Program Files\MiKTeX\fonts\type1\urw\times\utmr8a.pfb
-INPUT C:\Program Files\MiKTeX\fonts\type1\urw\times\utmri8a.pfb
-INPUT C:\Program Files\MiKTeX\fonts\type1\urw\times\utmri8a.pfb
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\shellesc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\shellesc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\shellesc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\ifplatform\ifplatform.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\ifplatform\ifplatform.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\catchfile\catchfile.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\catchfile\catchfile.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\etexcmds\etexcmds.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\etexcmds\etexcmds.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifluatex.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifluatex.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\xstring\xstring.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\xstring\xstring.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\xstring\xstring.tex
+INPUT C:\Program Files\MiKTeX\tex\latex\framed\framed.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\framed\framed.sty

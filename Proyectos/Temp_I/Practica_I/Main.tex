@@ -1,5 +1,6 @@
 \documentclass[a4paper, 12pt]{article}
 \usepackage{template} % Load your custom thesis package
+\usepackage{minted} % Code highlighting
 \usepackage[backend=biber,style=numeric,sorting=none, url=false,maxnames=5,minnames=1]{biblatex}
 \addbibresource{references.bib} % Your .bib file
 \defbibheading{bibliography}{} % Remove the heading of bibliography
@@ -34,7 +35,30 @@ use \textbackslash subsubsection for HEADING THREE (1.1.1.XXX)
 % Uso Basico de Python
 \clearpage
 \section{Uso Básico de Python}
-THIS IS THE SECTION FOR RESULTS
+En este capítulo se abordan los conceptos basicos para comenzar a programar en Python. Esto incluye la instalación del lenguaje, el uso de la consola interactiva y la ejecución de scripts. Ademas, se presentan ejemplos basicos de sintaxis como la impresión de texto, la declaración de variables y cómo utilizar comentarios en el código.
+
+\section*{2.1 Instalación de Python}
+Para instalar Python en su computadora, visite el sitio web oficial de Python en \url{https://www.python.org/}. Desde allí, puede descargar el instalador para su sistema operativo y seguir las instrucciones de instalación.
+\\
+\\
+\textbf{Consola Interactiva}\\
+Python viene con una consola interactiva que le permite escribir y ejecutar código de Python en tiempo real. Para abrir la consola interactiva, simplemente escriba \texttt{python} en su terminal o símbolo del sistema.
+\\
+\\
+\textbf{Consola Interactiva}\\
+Python viene con una consola interactiva que le permite escribir y ejecutar código de Python en tiempo real. Para abrir la consola interactiva, simplemente escriba \texttt{python} en su terminal o símbolo del sistema.
+\\
+\\
+\textbf{Ejemplos de Sintaxis}\\
+A continuación se presentan algunos ejemplos de sintaxis básica en Python:
+
+\begin{minted}[frame=lines, bgcolor=lightgray, linenos]{python}
+# Imprimir texto en la consola
+print("Hola, mundo!")
+
+# Declarar una variable
+x = 5
+\end{minted}
 
 % Tipos de Datos y Variables
 \clearpage

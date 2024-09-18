@@ -1,0 +1,5 @@
+# Imprimir texto en la consola
+print("Hola, mundo!")
+
+# Declarar una variable
+x = 5
